@@ -1,0 +1,57 @@
+body{
+    background-color: #efc0a9;
+}
+
+.a{
+    border:7px dashed blue ;
+    background-color:rgb(241, 241, 124);
+    margin:auto;
+    width: 75%;
+    height:300px;
+}
+
+.x{
+    text-align:center;
+    color:red;
+    font-size:40px;
+    
+    
+}
+
+.photo{
+    background-image:url(fotograf.jpeg);
+    width:200px;
+    height:200px;
+    background-size:cover;
+    border-radius: 50% ;
+    border: 7px solid blue;
+    margin:auto;
+    margin-bottom:10px;
+}
+
+.writing{
+    text-align:center;
+    width:90%;
+    height: 150px;
+    margin:auto;
+    font-size:26px;
+    
+}
+
+.btn{
+    text-decoration: none;
+    display:inline-block;
+    font-size:20px;
+    background-color: #182747;
+    border-radius:3px;
+    padding:15px 30px;
+    color:white;
+    margin-top:50px;
+    margin-left:630px;
+
+    
+}   
+.btn:hover{
+    background-color:rgb(184, 48, 48);
+    color:yellow;
+}

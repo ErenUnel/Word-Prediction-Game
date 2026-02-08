@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="166.3512mm"
+   height="216.42018mm"
+   viewBox="0 0 166.3512 216.42018"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="çizim5.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.69753788"
+     inkscape:cx="333.31523"
+     inkscape:cy="496.74722"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.772672,-17.151981)">
+    <rect
+       style="fill:#ffcc00;stroke:#000000;stroke-width:15.765;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1"
+       width="150.5862"
+       height="200.65518"
+       x="24.655172"
+       y="25.034481" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:112.585px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:18.5746;stroke-opacity:1;paint-order:stroke fill markers"
+       x="58.378334"
+       y="164.11272"
+       id="text1"
+       transform="scale(1.0098233,0.99027225)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:#000000;stroke:none;stroke-width:18.5746"
+         x="58.378334"
+         y="164.11272">H</tspan></text>
+  </g>
+</svg>

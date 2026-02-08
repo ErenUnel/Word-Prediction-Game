@@ -1,0 +1,75 @@
+.title{
+    background-color:rgb(128, 203, 78);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:40px;
+    color:red;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#a{
+  margin:auto;
+  margin-left:25px;
+}
+body{
+    justify-content: center;
+    display:flex;
+}
+#input{
+    margin-left: 12%;
+    width:200px;
+    height:50px;
+    font-size:20px;
+    margin-bottom:30px;
+    text-align:center;
+}
+
+#submit{
+    margin-top:50px;
+    margin-left: 12%;
+    width:200px;
+    height:40px;
+    font-size:30px;
+    margin-bottom:30px;
+}
+#submit:hover{
+    background-color:green;
+}
+
+#score{
+    margin-left: 15%;
+    width:200px;
+    height:80px;
+    font-size:50px;
+    display:inline;
+    font-weight:bold;
+    display:inline;
+}
+
+#scorenumber{
+    font-size:50px;
+    font-weight:bold;
+    display:inline;
+}
+
+#lives{
+display:inline;
+width:200px;
+font-size:50px;
+margin-left: 15%;
+}
+#live1{
+
+}
+
+ #Reset{
+    margin-top:30px;
+    margin-left: 22%;
+    width:320px;
+    height:65px;
+    font-size:40px;
+}
+#Reset:hover{
+    background-color:red;
+}   

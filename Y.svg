@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="149.66151mm"
+   height="198.59256mm"
+   viewBox="0 0 149.66151 198.59256"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="çizim2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.69753788"
+     inkscape:cx="298.9085"
+     inkscape:cy="465.20771"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Katman 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-25.87614,-25.496833)">
+    <rect
+       style="fill:#ffcc00;stroke:#000000;stroke-width:15.7165;paint-order:stroke fill markers"
+       id="rect1"
+       width="133.94501"
+       height="182.87605"
+       x="33.73439"
+       y="33.355083" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:116.644px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:19.2444;paint-order:stroke fill markers"
+       x="60.203876"
+       y="169.43481"
+       id="text1"
+       transform="scale(1.0462354,0.95580784)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:#000000;stroke:none;stroke-width:19.2444"
+         x="60.203876"
+         y="169.43481">Y</tspan></text>
+  </g>
+</svg>
